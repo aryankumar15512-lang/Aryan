@@ -1,0 +1,6 @@
+{
+  "name": "ViralClip X",
+  "description": "AI-powered gaming and live-stream clipping studio for vertical YouTube Shorts and Reels with interactive layout editor and hybrid PC/Cloud FastAPI backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

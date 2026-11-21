@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ViralClip X</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_clips">Clips</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="badge_pc_mode">PC Mode</string>
+    <string name="badge_cloud_mode">Cloud Mode</string>
+    <string name="badge_demo_mode">Demo Mode</string>
+
+    <string name="home_hero_subtitle">AI-Powered Vertical Clipping Engine</string>
+    <string name="mode_live_stream">Live Stream</string>
+    <string name="mode_vod_url">Video / VOD URL</string>
+    <string name="mode_upload_video">Upload Video</string>
+    <string name="cta_auto_find_clips">Auto-Find Viral Clips</string>
+    <string name="cta_scanning_clips">Scanning Stream…</string>
+    <string name="url_hint_live">Paste Twitch, YouTube, Kick, or X live link…</string>
+    <string name="url_hint_vod">Paste YouTube, Twitch VOD, Kick, Rumble, or FB link…</string>
+    <string name="zero_timestamps_note">No timestamps needed — AI scans the full stream for hype spikes &amp; clutch plays</string>
+    <string name="upload_drop_title">Tap to Select Video from Gallery</string>
+    <string name="upload_drop_subtitle">Supports MP4, MOV, MKV • Zero storage permission needed</string>
+
+    <string name="step_1_capture">Capturing Stream / Video</string>
+    <string name="step_2_hype">Detecting Hype &amp; Audio Spikes</string>
+    <string name="step_3_whisper">Generating Whisper Auto-Captions</string>
+    <string name="step_4_framing">Auto-Framing Facecam &amp; Gameplay</string>
+    <string name="step_5_render">Rendering Viral 9:16 Clips</string>
+
+    <string name="clips_title">Viral Clips Feed</string>
+    <string name="action_download">Download</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_rerender_save">Re-Render &amp; Save</string>
+
+    <string name="studio_title">Clip Studio</string>
+    <string name="preset_split">Split Screen</string>
+    <string name="preset_pip">Floating PIP</string>
+    <string name="preset_blur">Blurred BG</string>
+
+    <string name="settings_title">Engine &amp; Backend</string>
+    <string name="settings_demo_title">Demo Mode</string>
+    <string name="settings_demo_desc">Test scanning, 4 sample gaming clips &amp; Studio instantly without a server</string>
+    <string name="settings_pc_mode">PC Mode (Local Wi-Fi)</string>
+    <string name="settings_cloud_mode">Cloud Mode (Google Colab)</string>
+    <string name="settings_test_connection">Test Connection</string>
+    <string name="settings_api_contract">FastAPI Integration Contract</string>
+</resources>
